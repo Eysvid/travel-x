@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Norway",
+        "classSlide": "slide--norway",
+        "classTitle": "slide__title--norway",
+        "location-title-1": "Trondheim",
+        "location-title-2": "Geirangerfjord",
+        "location-title-3": "Lofoten"
+    },
+    {
+        "name": "Austria",
+        "classSlide": "slide--austria",
+        "classTitle": "slide__title--austria",
+        "location-title-1": "Cestority",
+        "location-title-2": "Cvaterfild",
+        "location-title-3": "Santurino"
+    },
+    {
+        "name": "UAE",
+        "classSlide": "slide--uae",
+        "classTitle": "slide__title--uae",
+        "location-title-1": "Djahalib",
+        "location-title-2": "Gertuyn",
+        "location-title-3": "Sentope"
+    },
+    {
+        "name": "Thailand",
+        "classSlide": "slide--thailand",
+        "classTitle": "slide__title--thailand",
+        "location-title-1": "Tertimona",
+        "location-title-2": "Gyguperi",
+        "location-title-3": "Venture"
+    },
+    {
+        "name": "Morocco",
+        "classSlide": "slide--morocco",
+        "classTitle": "slide__title--morocco",
+        "location-title-1": "Opertina",
+        "location-title-2": "Sertimus",
+        "location-title-3": "Dertijope"
+    }
+]
